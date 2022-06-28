@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/mxins.sass"
+    ],
+    "names": [],
+    "file": "mxins.min.css"
+}
